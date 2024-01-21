@@ -19,6 +19,16 @@
   - PostCSS
 - Javascript
 
+#### Other
+Git, Gulp, Bootstrap, Frontnote
+
+### 略歴 (Brief history)
+2013年〜 キャリアスタート
+2016年〜 デザインシステム、UIライブラリーの制作に携わる。
+昨今はWEBアクセシビリティ対応でWAI-ARIAを用いたコーディングに力を注いでます。
+ユーザー視点からデザイン性と使いやすさの両立を実現できるエンジニアになりたい！
+
+
 <!---
 H-Manny/H-Manny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
