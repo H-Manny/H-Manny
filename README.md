@@ -11,6 +11,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=H-Manny&color=red)
 
 ### Language
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,jquery&theme=light)](https://skillicons.dev)
+
 - HTML
   - HTML Living Standard準拠
   - WAI-ARIA
@@ -20,13 +22,18 @@
 - Javascript
 
 #### Other
-Git, Gulp, Bootstrap, Frontnote
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,gulp&theme=light)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode&theme=light)](https://skillicons.dev)
+
+Backlog, Codeium, Sourcetree, GitHub Desktop
 
 ### 略歴 (Brief history)
 2013年〜 キャリアスタート<br>
 2016年〜 デザインシステム、UIライブラリーの制作に携わる。<br>
 昨今はWEBアクセシビリティ対応でWAI-ARIAを用いたコーディングに力を注いでます。<br>
-ユーザー視点からデザイン性と使いやすさの両立を実現できるエンジニアになりたい！
+ユーザー視点からデザイン性と使いやすさの両立を実現できるエンジニアを目指す。
 
 
 <!---
