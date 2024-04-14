@@ -13,14 +13,6 @@
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,jquery&theme=light)](https://skillicons.dev)
 
-- HTML
-  - HTML Living Standard準拠
-  - WAI-ARIA
-- CSS
-  - Sass/SCSS
-  - PostCSS
-- Javascript
-
 #### Other
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,gulp&theme=light)](https://skillicons.dev)
 
